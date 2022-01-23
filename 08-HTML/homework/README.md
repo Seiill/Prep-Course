@@ -30,7 +30,7 @@ II Añade un poco de estilo
   D. Asignar al span que se encuentra dentro de su segundo div el id "spanId".
   E. Agregue una regla de estilo a su elemento h1 cambiando el color del texto (Listado de colores: https://www.crockford.com/wrrrld/color.html).
   F. Agregue una regla de estilo al elemento img dándole un ancho de 400px.
-  G. Agregue una regla de estilo a 'thirdDiv' cambiando la altura a 600px y el ancho a 500px.
+  G. Agregue una regla de estilo a 'thirdDheiv' cambiando la altura a 600px y el ancho a 500px.
   H. Agregue una regla de estilo a 'thirdDiv' cambiando el color de fondo por el que quiera.
   I. Cambie el tamaño de la fuente para 'spanId' a 18px.
   J. Asignar al id 'spanId' un margen de 50px.
